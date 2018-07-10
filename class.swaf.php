@@ -1,5 +1,8 @@
 <?php
-
+/*
+SimpleWAF Class
+GitHub: https://github.com/da7Q9RnPjm
+*/
 class SimpleWAF {
 	var $log_file = "logs";
 	var $telegram_notice = true;
