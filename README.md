@@ -10,4 +10,4 @@ Features:
 - Protect Santy
 - Protect Bots
 - Protect Request Method
-- Protect DoS, Union SQL, CLick Jacking, Cookies, and Upload
+- Protect DoS, Union SQL, Click Jacking, Cookies, and Upload
