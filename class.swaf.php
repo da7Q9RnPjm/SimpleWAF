@@ -6,8 +6,8 @@ GitHub: https://github.com/da7Q9RnPjm
 class SimpleWAF {
 	var $log_file = "logs";
 	var $telegram_notice = true;
-	var $telegram_api = "341621460:AAFVjPUtbqmyB6DylwUrP5Wi345lmMKpUnM";
-	var $telegram_chatid = "212541915";
+	var $telegram_api = "[TELEGRAM_BOT_API]";
+	var $telegram_chatid = "[TELEGRAM_CHATID]";
 	var $protect_unset_global = true;
 	var $protect_range_ip_deny = false;
 	var $protect_range_ip_spam = false;
