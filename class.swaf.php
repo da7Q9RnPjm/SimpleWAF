@@ -1,7 +1,7 @@
 <?php
 /*
 SimpleWAF Class
-GitHub: https://github.com/da7Q9RnPjm
+GitHub: https://github.com/orangemiaw
 */
 class SimpleWAF {
 	var $log_file = "logs";
