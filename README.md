@@ -1,4 +1,8 @@
 # SimpleWAF
+
+[![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-orange.svg)]()
+
 Simple Web Application Firewall real time report using Telegram Bot API
 
 ### Donate
