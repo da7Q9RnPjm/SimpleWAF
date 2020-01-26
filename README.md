@@ -1,6 +1,10 @@
 # SimpleWAF
 Simple Web Application Firewall real time report using Telegram Bot API
 
+### Donate
+- If this project very help you to secure your web application and u want support me , you can give me a cup of coffee :)
+- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1EKgiVqAvMnenGwuV8yvkvzfgMPUx18VBH)
+
 ## Features
 - Real time report using Telegram Bot API
 - Protect Range IP Deny
